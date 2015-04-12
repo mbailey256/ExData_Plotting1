@@ -112,3 +112,8 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Additional Comments  
+
+To run this exercise you must load and run plot1.R first to download
+the source data and cleanse the data table used for the remaining scripts.  
+
